@@ -1,0 +1,2 @@
+1,Aramis Demaria,Piedra,Papel,Derrota
+2,Aramis Demaria,Tijera,Tijera,Empate
