@@ -17,6 +17,13 @@ y luego verificados con este **código de referencia** en C++.
 - Integrantes del grupo: Aramis Demaria (trabajo individual)
 - Docente: Mansilla Muñoz York Elías
 
+## Repositorios
+
+- **GitHub (principal):** https://github.com/Aramis79322/Actividades/tree/algoritmica
+- **GitLab (respaldo Dual-Remote):** https://github.com/Aramis79322/Actividades/-/tree/algoritmica
+
+Un único `git push` actualiza ambos servidores: `origin` mantiene el `fetch` en GitHub y tiene dos `pushurl` configurados (GitHub + GitLab), según la estrategia «anti-caídas» documentada en la ACT06.
+
 ## Estructura
 
 ```
